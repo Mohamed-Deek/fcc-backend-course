@@ -1,0 +1,24 @@
+{
+  "name": "fcc-backend-course",
+  "version": "1.0.0",
+  "description": "freecodecamp backend course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Deek/fcc-backend-course.git"
+  },
+  "keywords": [
+    "fcc",
+    "course",
+    "backend"
+  ],
+  "author": "Mohamed Abdirizak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Deek/fcc-backend-course/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Deek/fcc-backend-course#readme"
+}
